@@ -1,4 +1,10 @@
 # CarPrediction
+<img width="450" height="1454" alt="изображение" src="https://github.com/user-attachments/assets/b456cb12-c881-40cc-87a6-b2bd435be817" />
+Краткая информация:
+54 - марки
+10553 - фото
+источник https://github.com/SENATOROVAI/CarPrediction/blob/develop/show_1.ipynb
+
 predict car photos
 
 1. show_1.ipynb - основная работа модели
