@@ -24,29 +24,14 @@ predict car photos
   
   6. ячейка расчет метрик на val датасете
   
-  1.1 out/result - картинки с машинами с предсказаниями марок машин
-  
-  2. runs/train10/results.csv - метрики качества
-  
-  2.1 data/cars_002_learn_3/val/images - val датасет для проверки метрик качества
-  
-  recall = 0.91 precision = 0.91
-  
-  3. runs/detect/train28/results.png - графики обучения
-  
-  4. runs/detect/train28/results.csv - метрики обучения по эпохам
-  
-  5. runs/detect/train28/confusion_matrix.png - матрица ошибок
-  
-  6. runs/detect/train28/weights/best.pt - веса модели
 
-2. runs/detect/train28
+2. runs/detect/train28/
   1. weights - веса обученной модели
   2. confusion_matrix.png - матрица ошибок модели
   3. results.png - графики обучения модели
   4. results.csv - таблица лоссов и метрик обучения модели на каждой эпохе
 
-3. data/cars_002_learn_3 - датасет с изображениями автомобилей
+3. data/cars_002_learn_3/val/images - val датасет для проверки метрик качества
 4. data_in/ - необработанные изображения из парсинга
 5. out/result - результаты работы модели с изображениями
 6. convert_images.py - преобразование фото в единый jpg формат
