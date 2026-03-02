@@ -1,0 +1,62 @@
+path: /home/jovyan/work/test_VK/test_project_1/data/cars_002_learn_3
+
+train: train # train images (relative to 'path')
+val: val # val images (relative to 'path')
+# test: test # test images (optional)
+
+nc: 54
+names:
+    0: 01_Bestune_T77
+    1: 02_BYD_ATTO_3
+    2: 03_BYD_DOLPHIN
+    3: 04_BYD_SEAL
+    4: 05_BYD_SEAL_U_DM-i
+    5: 06_Changan_CS55_E-Rock
+    6: 07_Chery_Arrizo_5
+    7: 08_Chery_Arrizo_8
+    8: 09_Chery_Arrizo_GX
+    9: 10_Chery_Tiggo_3x
+    10: 11_GAC_Emkoo
+    11: 12_GAC_Empow
+    12: 13_Chery_Tiggo_7L
+    13: 14_Chery_Tiggo_8_Pro_Max
+    14: 15_Chery_Tiggo_4
+    15: 16_Chery_Tiggo_9
+    16: 17_Chery_Tiggo_2
+    17: 18_Geely_Coolray
+    18: 19_Geely_Atlas
+    19: 20_Geely_Monjaro
+    20: 21_Geely_Cityray
+    21: 22_Geely_Emgrand
+    22: 23_Geely_Preface
+    23: 24_Haval_Jolion
+    24: 25_Haval_H6
+    25: 26_Haval_H2
+    26: 27_Haval_Dargo
+    27: 28_Haval_M6
+    28: 29_Changan_CS35_Plus
+    29: 30_Changan_CS75_Plus
+    30: 31_Changan_UNI-K
+    31: 32_Changan_Alsvin
+    32: 33_Omoda_C5
+    33: 34_Omoda_C7
+    34: 35_JETOUR_X70
+    35: 36_JETOUR_T2
+    36: 37_Exeed_TXL
+    37: 38_Exeed_LX
+    38: 39_Jaecoo_J7
+    39: 40_Jaecoo_J8
+    40: 41_Tank_300
+    41: 42_Tank_500
+    42: 43_GAC_GS8
+    43: 44_GAC_GS4
+    44: 45_JAC_J7_Plus
+    45: 46_JAC_JS6
+    46: 47_MG_ZS
+    47: 48_MG_5
+    48: 49_MG_4EV
+    49: 50_Voyah_Free
+    50: 51_Voyah_Dream
+    51: 52_BYD_Song_Plus
+    52: 53_BYD_Han
+    53:  54_BYD_Tang
